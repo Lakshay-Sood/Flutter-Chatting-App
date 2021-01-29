@@ -35,7 +35,7 @@ final User steven =
     User(id: 7, name: 'Steven', imageUrl: 'assets/images/steven.jpg');
 
 // FAVORITE CONTACTS
-List<User> favorites = [sam, steven, olivia, john, greg];
+List<User> favourites = [sam, steven, olivia, john, greg, james];
 
 // EXAMPLE CHATS ON HOME SCREEN
 List<Message> chats = [
